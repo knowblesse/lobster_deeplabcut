@@ -1,3 +1,8 @@
+#User ignore files
+Test*/
+video/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
